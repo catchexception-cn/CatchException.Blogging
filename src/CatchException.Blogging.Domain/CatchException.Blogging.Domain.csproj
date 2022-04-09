@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Volo.Abp.Ddd.Domain" Version="5.2.0" />
+    <ProjectReference Include="..\..\CatchException.Tagging\src\CatchException.Tagging.Domain\CatchException.Tagging.Domain.csproj" />
     <ProjectReference Include="..\CatchException.Blogging.Domain.Shared\CatchException.Blogging.Domain.Shared.csproj" />
   </ItemGroup>
 
