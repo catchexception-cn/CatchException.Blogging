@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.prod.json",
+  "compilerOptions": {
+    "paths": {
+      "@catch-exception/blogging": [
+        "projects/blogging/src/public-api.ts"
+      ],
+      "@catch-exception/blogging/config": [
+        "projects/blogging/config/src/public-api.ts"
+      ],
+      "@proxy": ["projects/blogging/src/lib/proxy/index.ts"],
+      "@proxy/*": ["projects/blogging/src/lib/proxy/*"]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "CatchException.Blogging": {
+      "path": "CatchException.Blogging.abpmdl.json"
+    }
+  }
+}

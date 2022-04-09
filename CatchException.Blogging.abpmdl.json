@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "CatchException.Blogging.Domain.Shared": {
+      "path": "src/CatchException.Blogging.Domain.Shared/CatchException.Blogging.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "CatchException.Blogging.Domain": {
+      "path": "src/CatchException.Blogging.Domain/CatchException.Blogging.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "CatchException.Blogging.Application.Contracts": {
+      "path": "src/CatchException.Blogging.Application.Contracts/CatchException.Blogging.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "CatchException.Blogging.Application": {
+      "path": "src/CatchException.Blogging.Application/CatchException.Blogging.Application.abppkg.json",
+      "folder": "src"
+    },
+    "CatchException.Blogging.EntityFrameworkCore": {
+      "path": "src/CatchException.Blogging.EntityFrameworkCore/CatchException.Blogging.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "CatchException.Blogging.MongoDB": {
+      "path": "src/CatchException.Blogging.MongoDB/CatchException.Blogging.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "CatchException.Blogging.HttpApi": {
+      "path": "src/CatchException.Blogging.HttpApi/CatchException.Blogging.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "CatchException.Blogging.HttpApi.Client": {
+      "path": "src/CatchException.Blogging.HttpApi.Client/CatchException.Blogging.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "CatchException.Blogging.TestBase": {
+      "path": "test/CatchException.Blogging.TestBase/CatchException.Blogging.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "CatchException.Blogging.EntityFrameworkCore.Tests": {
+      "path": "test/CatchException.Blogging.EntityFrameworkCore.Tests/CatchException.Blogging.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "CatchException.Blogging.MongoDB.Tests": {
+      "path": "test/CatchException.Blogging.MongoDB.Tests/CatchException.Blogging.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "CatchException.Blogging.Domain.Tests": {
+      "path": "test/CatchException.Blogging.Domain.Tests/CatchException.Blogging.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "CatchException.Blogging.Application.Tests": {
+      "path": "test/CatchException.Blogging.Application.Tests/CatchException.Blogging.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "CatchException.Blogging.HttpApi.Host": {
+      "path": "host/CatchException.Blogging.HttpApi.Host/CatchException.Blogging.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "CatchException.Blogging.Web": {
+      "path": "src/CatchException.Blogging.Web/CatchException.Blogging.Web.abppkg.json",
+      "folder": "src"
+    },
+    "CatchException.Blogging.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/CatchException.Blogging.HttpApi.Client.ConsoleTestApp/CatchException.Blogging.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "CatchException.Blogging.Web.Host": {
+      "path": "host/CatchException.Blogging.Web.Host/CatchException.Blogging.Web.Host.abppkg.json",
+      "folder": "host"
+    },
+    "CatchException.Blogging.IdentityServer": {
+      "path": "host/CatchException.Blogging.IdentityServer/CatchException.Blogging.IdentityServer.abppkg.json",
+      "folder": "host"
+    },
+    "CatchException.Blogging.Host.Shared": {
+      "path": "host/CatchException.Blogging.Host.Shared/CatchException.Blogging.Host.Shared.abppkg.json",
+      "folder": "host"
+    },
+    "CatchException.Blogging.Web.Unified": {
+      "path": "host/CatchException.Blogging.Web.Unified/CatchException.Blogging.Web.Unified.abppkg.json",
+      "folder": "host"
+    },
+    "CatchException.Blogging.Blazor": {
+      "path": "src/CatchException.Blogging.Blazor/CatchException.Blogging.Blazor.abppkg.json",
+      "folder": "src"
+    },
+    "CatchException.Blogging.Blazor.Host": {
+      "path": "host/CatchException.Blogging.Blazor.Host/CatchException.Blogging.Blazor.Host.abppkg.json",
+      "folder": "host"
+    },
+    "CatchException.Blogging.Blazor.Server": {
+      "path": "src/CatchException.Blogging.Blazor.Server/CatchException.Blogging.Blazor.Server.abppkg.json",
+      "folder": "src"
+    },
+    "CatchException.Blogging.Blazor.WebAssembly": {
+      "path": "src/CatchException.Blogging.Blazor.WebAssembly/CatchException.Blogging.Blazor.WebAssembly.abppkg.json",
+      "folder": "src"
+    },
+    "CatchException.Blogging.Blazor.Server.Host": {
+      "path": "host/CatchException.Blogging.Blazor.Server.Host/CatchException.Blogging.Blazor.Server.Host.abppkg.json",
+      "folder": "host"
+    }
+  }
+}
